@@ -1,2 +1,1 @@
-# word-embeddings
-Analysis on fast-text vs word2vec
+### Analysis on fast-text vs word2vec.
